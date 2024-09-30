@@ -2,4 +2,4 @@
 print("Shira")
 
 #2
-print("LION")
+print("DOG")
